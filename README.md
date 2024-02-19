@@ -1,7 +1,23 @@
-# Vue 3 + Vite
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+# Eclock Proyect
 
-## Recommended IDE Setup
+Esta es el proyecto de prueba para la empresa Eclock realizado en Vue 3
 
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+
+
+
+## Instalacion
+
+Una vez clonado el repositorio, por favor ejecute los siguientes comandos.
+
+```bash
+  cd my-project
+  npm install 
+```
+
+Con esto nos aseguramos que el proyecto funcione de manera correcta. pero tendremos que intalar algunas otras dependencias.
+
+Para mas info. Consulte las siguientes URL:
+- [FontAwesome with Vue](https://fontawesome.com/docs/web/use-with/vue/)
+- [Bootstrap 5](https://getbootstrap.com/docs/5.3/getting-started/download/)
+    
